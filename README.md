@@ -1,2 +1,2 @@
 # Note-app---Project
-A new repo for our group project which is a note app
+Exam task - module 7 - Second year IT career.
